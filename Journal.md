@@ -21,7 +21,7 @@ Total time spent on the project: 18hr
 <img width="1338" height="1097" alt="image" src="https://github.com/user-attachments/assets/97ff3c23-4a42-4c85-bbbe-aad4f43d1e12" />
 <img width="2288" height="913" alt="image" src="https://github.com/user-attachments/assets/92863202-62f6-44c4-9c39-0f26a178c6e7" />
 12/1/25
-<img width="1468" height="698" alt="image" src="https://github.com/user-attachments/assets/f77e2d2c-a6ba-4b75-b33e-478897a578c7" />
+<img width="896" height="418" alt="image" src="https://github.com/user-attachments/assets/5a23a45c-a904-4b24-8d2c-5bfb00754204" />
 <img width="1317" height="610" alt="image" src="https://github.com/user-attachments/assets/5ae76329-1854-49e0-bb66-81ca057b42ce" />
 <img width="1057" height="723" alt="image" src="https://github.com/user-attachments/assets/ac56fee3-2068-4210-8d37-f2a7539b4f7a" />
 <img width="1079" height="759" alt="image" src="https://github.com/user-attachments/assets/c1b6d623-2a12-4ca7-b4d8-29a5b564237c" />
