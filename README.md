@@ -8,8 +8,8 @@ I needed to get into PCBs. Before this project, I didn't even know what they wer
 <img width="1808" height="877" alt="image" src="https://github.com/user-attachments/assets/e199f3f9-520b-4b51-979e-d933d8b93275" />
 <img width="1198" height="559" alt="image" src="https://github.com/user-attachments/assets/6755d121-c7ea-4447-8316-d0dbe7d3d566" />
 <img width="1316" height="837" alt="image" src="https://github.com/user-attachments/assets/d97f6628-f71c-4c4c-9386-e54085a0b75f" />
-<img width="1427" height="663" alt="image" src="https://github.com/user-attachments/assets/f8233cce-3f3d-4d3a-8f5d-74b37cf64269" />
-<img width="1512" height="746" alt="image" src="https://github.com/user-attachments/assets/7729ff3c-8da5-4d0c-bbfb-7aedb220b948" />
+<img width="1468" height="698" alt="image" src="https://github.com/user-attachments/assets/f77e2d2c-a6ba-4b75-b33e-478897a578c7" />
+<img width="1317" height="610" alt="image" src="https://github.com/user-attachments/assets/5ae76329-1854-49e0-bb66-81ca057b42ce" />
 BOM:
 | Material                       | Column 1 | Cost per | Amount needed | Total Cost | Do I have? | HC funding | Link |
 | PCB                            |          | $22.40   | 1             | $29.27     | No         | $29.27     | [https://cart.jlcpcb.com/shopcart/cart](https://cart.jlcpcb.com/shopcart/cart), Board: Y2-11347334A|
