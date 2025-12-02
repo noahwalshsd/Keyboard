@@ -13,4 +13,5 @@ There is 1 spacebar keycap, 1 3-wide keycap, 5 2-wide keycaps, and 60 small keyc
 <img width="896" height="418" alt="image" src="https://github.com/user-attachments/assets/fc62f67d-4995-4098-855b-5cef8f611af1" />
 <img width="1317" height="610" alt="image" src="https://github.com/user-attachments/assets/5ae76329-1854-49e0-bb66-81ca057b42ce" />
 
-BOM:
+BOM: You can find it at the BOM.csv tab
+<img width="1939" height="368" alt="image" src="https://github.com/user-attachments/assets/dd9c973a-331e-48e5-a7b2-13ded3c1bdda" />
