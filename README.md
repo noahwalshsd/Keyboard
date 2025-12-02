@@ -1,6 +1,8 @@
 # Slim Shady Keyboard
 My project is a 65% orthographic mecanical keyboard. It will be more ergonomic than a regular keyboard and mimic a laptop keyboard in its quietness and lack of push depth. 
 I needed to get into PCBs. Before this project, I didn't even know what they were or even what PCB meant. I decided to make an ortholinear keyboardbecause I saw them being priced extremely high and I thought I could make it cheaper as my first PCB project. Because it is my first PCB project, I spent well over the suggested time in my learning efforts. I failed many times in nearly everything. I only got the CAD right first try. The cherry on top is that I may qualify for Prototype. 
+There is 1 spacebar keycap, 1 3-wide keycap, 5 2-wide keycaps, and 60 small keycaps. 
+
 <img width="1057" height="723" alt="image" src="https://github.com/user-attachments/assets/ac56fee3-2068-4210-8d37-f2a7539b4f7a" />
 <img width="1079" height="759" alt="image" src="https://github.com/user-attachments/assets/91426970-21d3-49cf-8c3b-42a4f878fae2" />
 <img width="1540" height="322" alt="image" src="https://github.com/user-attachments/assets/6e32106a-7681-4657-bc4b-d7382bcbf062" />
