@@ -1,4 +1,4 @@
 Part 1:  
-https://f8d710a55cb9b516d88635f103c2c9f2.r2.cloudflarestorage.com/collapse/timelapses/194a9f68-9c70-441f-b58c-cd5b4f8b95c7/timelapse.mp4?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=0202b4ab358a840324620139ad382aee%2F20260629%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20260629T220702Z&X-Amz-Expires=3600&X-Amz-Signature=5396ca08b4bf9c28cbee527020516c5efc6b397eda2f6960de57f7b77ea7cf62&X-Amz-SignedHeaders=host&x-id=GetObject  
+https://lookout.hackclub.com/api/media/2ed026fe-19dc-4a69-a3fc-ea4f41b52795/video.mp4
 Part 2:  
-https://f8d710a55cb9b516d88635f103c2c9f2.r2.cloudflarestorage.com/collapse/timelapses/2ed026fe-19dc-4a69-a3fc-ea4f41b52795/timelapse.mp4?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=0202b4ab358a840324620139ad382aee%2F20260629%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20260629T221136Z&X-Amz-Expires=3600&X-Amz-Signature=2978abf198fae1600642ac96450aee47c0e6c15d63b0679197b58a649be1cdfe&X-Amz-SignedHeaders=host&x-id=GetObject
+https://lookout.hackclub.com/api/media/194a9f68-9c70-441f-b58c-cd5b4f8b95c7/video.mp4
