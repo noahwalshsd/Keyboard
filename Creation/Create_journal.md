@@ -4,3 +4,5 @@ Vid 2, 18 mins:
 https://lookout.hackclub.com/api/media/287708e7-bceb-4101-acad-20f22b1ba523/video.mp4  
 Vid 3, 30 mins:  
 https://lookout.hackclub.com/api/media/22b121ac-284e-4fed-8a6e-45ae1ddc7f4f/video.mp4
+Vid 5, 30 mins:  
+https://lookout.hackclub.com/api/media/0708d7ff-d946-4cca-b3d9-9e9c4f5274e1/video.mp4
